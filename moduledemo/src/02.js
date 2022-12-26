@@ -1,0 +1,5 @@
+var m = require('./01')
+var v1=m.sum(1,2)
+console.log(v1)
+var v2=m.sub(2,1)
+console.log(v2)
